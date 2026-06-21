@@ -1,4 +1,5 @@
 ## Weekly Breach Investigation
+![Alt Text](https://github.com/jamal-soc21/Weekly-Breach-Investigation--012-/blob/main/blackx.png))
 Breach: GentleKiller — EDR-Killing Framework by Gentlemen RaaS
 Analyst: Jamal Mahmoad
 Date: 2026-06-22
