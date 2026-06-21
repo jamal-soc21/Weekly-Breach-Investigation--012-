@@ -1,4 +1,4 @@
-Weekly Breach Investigation
+## Weekly Breach Investigation
 Breach: GentleKiller — EDR-Killing Framework by Gentlemen RaaS
 Analyst: Jamal Mahmoad
 Date: 2026-06-22
